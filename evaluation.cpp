@@ -57,19 +57,3 @@ int main()
 	  std::cout<<"EVALUATED EXPRESSION="<<pop()<<endl;
 	  return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
