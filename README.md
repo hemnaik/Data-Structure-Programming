@@ -1,2 +1,8 @@
 # Data-Structure-Programming
-# Linked List Rotation, Stack and Queue implementation using Linked List, Sorting methods, Circular Queue, and Matrix programming 
+  - Following topics are covered
+    - Linked List Rotation
+    - Stack using Linked List
+    - Queue using Linked List
+    - Sorting techniques 
+    - Circular Queue 
+    - Matrix programming 
