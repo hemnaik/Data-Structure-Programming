@@ -6,7 +6,7 @@
     - Sorting techniques 
     - Circular Queue 
     - Matrix programming
-# Requirements of Core DSA
+# Requirements of Core DSA 
   - There are numberous requirements of Data Structures and algorithm development. Some of them are
      - Data Structure is used to manipulate and store data magnificently for the future use and in order to construct equipped systems.
      - Memory management, quite manipulation of hardware resources, architecture styles of systems are part of Data Structures.
