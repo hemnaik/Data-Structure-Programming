@@ -20,4 +20,9 @@
  - Problem Solving
  - Flow and product development
  - Hardware manipulation and sensor development
- - Core programming 
+ - Core programming
+# Other Topics of Data Structure
+- There are many topics to be covered under Data Structure subject like Hash Programming, coillision avoidance and Tower of Hanoi etc.
+- All the problems and their corresponding solutions in Data Struture are predefinly stated.
+- There are three techniques for coillision avoidance like Linear Probing, Quadratic Probing and Chaining.
+- Similarly, there are many topics like Cube sort, star sort, linear searching, recurrence relations etc.
